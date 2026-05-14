@@ -4,11 +4,13 @@ FSHN Airlines API është pjesa Back-End e sistemit të rezervimit të fluturime
 
 API mundëson komunikimin me klientin (Front-End) për funksione si:
 
-marrja e fluturimeve,
-krijimi i rezervimeve,
-check-in i pasagjerëve,
-dhe menaxhimi i të dhënave të udhëtarëve.
+- Marrja e fluturimeve
+- Krijimi i rezervimeve
+- Check-in i pasagjerëve
+- Menaxhimi i të dhënave të udhëtarëve
+
 📂 Struktura e Projektit
+
 FSHN-Airlines-API/
 │
 ├── data/
@@ -22,4 +24,4 @@ FSHN-Airlines-API/
 │
 ├── server.js
 ├── package.json
-└── 
+└── README.md
