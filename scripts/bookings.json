@@ -1,0 +1,20 @@
+[
+  {
+    "id": "89c1b9d6-191e-4616-9412-42027e519b50",
+    "pnr": "FAUH3ZPP",
+    "flightId": "550e8400-e29b-41d4-a716-446655440001",
+    "flightNumber": "FA2026",
+    "passengerName": "Zhoakin Sulce",
+    "passportNumber": "zhoakin.sulce@fshnstudent.info",
+    "email": "passenger@fshn.com",
+    "phone": "+355 (0) 123 456 789",
+    "status": "Confirmed",
+    "seatNumber": "TBD",
+    "gate": "TBD",
+    "checkInStatus": "Pending",
+    "bookingDate": "2026-05-14T17:58:25.812Z",
+    "departureTime": "2026-05-14T08:00:00Z",
+    "route": "ALBANIA → ITALY",
+    "price": 49
+  }
+]

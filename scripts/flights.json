@@ -1,0 +1,80 @@
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440001",
+    "flightNumber": "FA2026",
+    "origin": "ALBANIA",
+    "destination": "ITALY",
+    "departureTime": "2026-05-14T08:00:00Z",
+    "arrivalTime": "2026-05-14T10:30:00Z",
+    "price": 49,
+    "availableSeats": 150,
+    "bookedSeats": 1,
+    "status": "Scheduled",
+    "createdAt": "2026-05-14T00:00:00Z"
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440002",
+    "flightNumber": "FA2027",
+    "origin": "ALBANIA",
+    "destination": "ITALY",
+    "departureTime": "2026-05-14T14:00:00Z",
+    "arrivalTime": "2026-05-14T16:30:00Z",
+    "price": 55,
+    "availableSeats": 150,
+    "bookedSeats": 0,
+    "status": "Scheduled",
+    "createdAt": "2026-05-14T00:00:00Z"
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440003",
+    "flightNumber": "FA2028",
+    "origin": "ITALY",
+    "destination": "ALBANIA",
+    "departureTime": "2026-05-14T09:00:00Z",
+    "arrivalTime": "2026-05-14T11:30:00Z",
+    "price": 52,
+    "availableSeats": 150,
+    "bookedSeats": 0,
+    "status": "Scheduled",
+    "createdAt": "2026-05-14T00:00:00Z"
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440004",
+    "flightNumber": "FA2029",
+    "origin": "FRANCE",
+    "destination": "ALBANIA",
+    "departureTime": "2026-05-14T11:00:00Z",
+    "arrivalTime": "2026-05-14T14:00:00Z",
+    "price": 79,
+    "availableSeats": 150,
+    "bookedSeats": 0,
+    "status": "Scheduled",
+    "createdAt": "2026-05-14T00:00:00Z"
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440005",
+    "flightNumber": "FA2030",
+    "origin": "ALBANIA",
+    "destination": "GREECE",
+    "departureTime": "2026-05-14T07:00:00Z",
+    "arrivalTime": "2026-05-14T08:30:00Z",
+    "price": 39,
+    "availableSeats": 150,
+    "bookedSeats": 0,
+    "status": "Scheduled",
+    "createdAt": "2026-05-14T00:00:00Z"
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440006",
+    "flightNumber": "FA2031",
+    "origin": "GERMANY",
+    "destination": "ALBANIA",
+    "departureTime": "2026-05-14T13:00:00Z",
+    "arrivalTime": "2026-05-14T16:00:00Z",
+    "price": 89,
+    "availableSeats": 150,
+    "bookedSeats": 0,
+    "status": "Scheduled",
+    "createdAt": "2026-05-14T00:00:00Z"
+  }
+]
