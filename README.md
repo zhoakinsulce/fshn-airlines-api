@@ -9,19 +9,19 @@ API mundëson komunikimin me klientin (Front-End) për funksione si:
 - Check-in i pasagjerëve
 - Menaxhimi i të dhënave të udhëtarëve
 
-📂 Struktura e Projektit
+## 📂 Struktura e Projektit
 
+Projekti ndjek një strukturë të thjeshtë dhe të pastër:
+
+```text
 FSHN-Airlines-API/
-│
-├── data/
-│   ├── flights.json
-│   └── bookings.json
-│
-├── routes/
+├── data/                 # Ruajtja e të dhënave (Flights & Bookings)
+│   ├── flights.json      # Listë fluturimesh
+│   └── bookings.json     # Listë rezervimesh
+├── routes/               # Përkufizimi i endpoints (Flights, Bookings, Check-in)
 │   ├── flights.js
 │   ├── bookings.js
 │   └── checkin.js
-│
-├── server.js
-├── package.json
-└── README.md
+├── server.js             # Pika kryesore e aplikacionit (Entry Point)
+├── package.json          # Varësitë e projektit (Express, CORS, etc.)
+└── README.md             # Dokumentacioni
